@@ -25,9 +25,7 @@ a {
   -o-transition: color 400ms, background-color 400ms;
   transition: color 400ms, background-color 400ms;
 }
-a:hover {
-	text-decoration: none;
-}
+a:hover,
 a:focus {
   text-decoration: none;
   color: #D3AF02;
